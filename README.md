@@ -1,4 +1,4 @@
-# ColdGuard 🛡️❄️ — Sistema Resiliente de Telemetria e Segurança para a Cadeia de Frio
+# ColdGuard, Sistema Resiliente de Telemetria e Segurança para a Cadeia de Frio
 
 O **ColdGuard** é uma solução computacional ponta a ponta (IoT à Nuvem) projetada para o monitoramento crítico de temperatura e umidade em contêineres frigoríficos durante o transporte de cargas termo-sensíveis de alto valor, como vacinas de RNAm (que exigem temperaturas de até -80°C) e alimentos nobres.
 
